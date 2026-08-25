@@ -1,2 +1,5 @@
-# Git_Introduction
-first lab assignment for ece520L
+# GitHub Workshop I
+- Introduction to Git and Github
+
+# GitHub Workshop II
+- Creating and Merging Branches
